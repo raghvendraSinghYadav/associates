@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "charge serve .",
-    "build": "charge build ."
+    "dev": "http-server .",
+    "build": "http-server ."
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/raghvendraSinghYadav/associates#readme",
   "devDependencies": {
     "@static/charge": "^1.7.0"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
   }
 }
