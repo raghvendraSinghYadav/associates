@@ -1,0 +1,23 @@
+{
+  "name": "raghvendra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "charge serve .",
+    "build": "charge build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghvendraSinghYadav/associates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghvendraSinghYadav/associates/issues"
+  },
+  "homepage": "https://github.com/raghvendraSinghYadav/associates#readme",
+  "devDependencies": {
+    "@static/charge": "^1.7.0"
+  }
+}
